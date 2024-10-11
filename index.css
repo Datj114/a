@@ -1,6 +1,10 @@
 a{
  color: rgb(207, 53, 53);
 }
+body{
+    background-color: aquamarine;
+    color: aliceblue;
+}
 button{
     background-color: blue;
 }
